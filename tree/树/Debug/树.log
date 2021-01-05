@@ -1,0 +1,21 @@
+﻿  源.cpp
+C:\Users\20643\Desktop\树\树\源.cpp(12,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\20643\Desktop\树\树\源.cpp(12,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\20643\Desktop\树\树\源.cpp(12,10): message : 缺失的可变参数 2 为格式字符串“%c”所需
+C:\Users\20643\Desktop\树\树\源.cpp(12,10): message : 此参数用作缓冲区大小
+C:\Users\20643\Desktop\树\树\源.cpp(143,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\20643\Desktop\树\树\源.cpp(143,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\20643\Desktop\树\树\源.cpp(143,10): message : 缺失的可变参数 2 为格式字符串“%c”所需
+C:\Users\20643\Desktop\树\树\源.cpp(143,10): message : 此参数用作缓冲区大小
+C:\Users\20643\Desktop\树\树\源.cpp(150,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“tree *”
+C:\Users\20643\Desktop\树\树\源.cpp(150,10): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 2 拥有了类型“tree”
+C:\Users\20643\Desktop\树\树\源.cpp(156,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\20643\Desktop\树\树\源.cpp(156,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\20643\Desktop\树\树\源.cpp(156,10): message : 缺失的可变参数 2 为格式字符串“%c”所需
+C:\Users\20643\Desktop\树\树\源.cpp(156,10): message : 此参数用作缓冲区大小
+C:\Users\20643\Desktop\树\树\源.cpp(163,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\20643\Desktop\树\树\源.cpp(163,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\20643\Desktop\树\树\源.cpp(163,10): message : 缺失的可变参数 2 为格式字符串“%c”所需
+C:\Users\20643\Desktop\树\树\源.cpp(163,10): message : 此参数用作缓冲区大小
+C:\Users\20643\Desktop\树\树\源.cpp(137,6): warning C4101: “i”: 未引用的局部变量
+  树.vcxproj -> C:\Users\20643\Desktop\树\Debug\树.exe
